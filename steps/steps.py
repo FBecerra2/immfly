@@ -4,7 +4,7 @@ from libraries.connection import connectionWeb, findByCSS
 from selenium.common.exceptions import NoSuchElementException
 
 protocol = "https://"
-domain_web = "highlifeshop.com/speedbird-cafe56656565"
+domain_web = "highlifeshop.com/speedbird-cafe"
 #Word required in combo box in the fist visit.
 word_first_time = "Position"
 
